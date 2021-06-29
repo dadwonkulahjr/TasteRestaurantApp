@@ -10,3 +10,11 @@ C:\Users\Dad S. Wonkulah Jr\source\repos\TasteRestaurantApplication\TasteRestaur
 C:\Users\Dad S. Wonkulah Jr\source\repos\TasteRestaurantApplication\TasteRestaurateApplication.DataAccess\obj\Debug\net5.0\TasteRestaurateApplication.DataAccess.dll
 C:\Users\Dad S. Wonkulah Jr\source\repos\TasteRestaurantApplication\TasteRestaurateApplication.DataAccess\obj\Debug\net5.0\ref\TasteRestaurateApplication.DataAccess.dll
 C:\Users\Dad S. Wonkulah Jr\source\repos\TasteRestaurantApplication\TasteRestaurateApplication.DataAccess\obj\Debug\net5.0\TasteRestaurateApplication.DataAccess.pdb
+C:\Users\Dad S. Wonkulah Jr\source\repos\TasteRestaurantApplication\TasteRestaurateApplication.DataAccess\bin\Debug\net5.0\TasteRestaurantApplication.Models.dll
+C:\Users\Dad S. Wonkulah Jr\source\repos\TasteRestaurantApplication\TasteRestaurateApplication.DataAccess\bin\Debug\net5.0\TasteRestaurantApplication.Utility.dll
+C:\Users\Dad S. Wonkulah Jr\source\repos\TasteRestaurantApplication\TasteRestaurateApplication.DataAccess\bin\Debug\net5.0\TasteRestaurantApplication.Models.pdb
+C:\Users\Dad S. Wonkulah Jr\source\repos\TasteRestaurantApplication\TasteRestaurateApplication.DataAccess\bin\Debug\net5.0\TasteRestaurantApplication.Utility.pdb
+C:\Users\Dad S. Wonkulah Jr\source\repos\TasteRestaurantApplication\TasteRestaurateApplication.DataAccess\obj\Debug\net5.0\TasteRestaurateApplication.DataAccess.csproj.CopyComplete
+C:\Users\Dad S. Wonkulah Jr\source\repos\TasteRestaurantApplication\TasteRestaurateApplication.DataAccess\bin\Debug\net5.0\TasteRestaurateApplication.DataAccess.runtimeconfig.json
+C:\Users\Dad S. Wonkulah Jr\source\repos\TasteRestaurantApplication\TasteRestaurateApplication.DataAccess\bin\Debug\net5.0\TasteRestaurateApplication.DataAccess.runtimeconfig.dev.json
+C:\Users\Dad S. Wonkulah Jr\source\repos\TasteRestaurantApplication\TasteRestaurateApplication.DataAccess\obj\Debug\net5.0\TasteRestaurateApplication.DataAccess.genruntimeconfig.cache

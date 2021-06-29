@@ -6,7 +6,6 @@
 
 	<ItemGroup>
 		<FrameworkReference Include="Microsoft.AspNetCore.App" />
-		<Folder Include="AllModels\" />
 		<Folder Include="ViewModels\" />
 	</ItemGroup>
 

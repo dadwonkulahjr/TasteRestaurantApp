@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasteRestaurantApplication", "TasteRestaurantApplication\TasteRestaurantApplication.csproj", "{1E03C87E-CB7D-4E9B-802A-25E2EEDD7F19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TasteRestaurantApplication", "TasteRestaurantApplication\TasteRestaurantApplication.csproj", "{1E03C87E-CB7D-4E9B-802A-25E2EEDD7F19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasteRestaurateApplication.DataAccess", "TasteRestaurateApplication.DataAccess\TasteRestaurateApplication.DataAccess.csproj", "{7AF7315D-AE41-4968-99E2-1DD47C4D4657}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TasteRestaurateApplication.DataAccess", "TasteRestaurateApplication.DataAccess\TasteRestaurateApplication.DataAccess.csproj", "{7AF7315D-AE41-4968-99E2-1DD47C4D4657}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasteRestaurantApplication.Models", "TasteRestaurantApplication.Models\TasteRestaurantApplication.Models.csproj", "{55A718E5-066A-43A9-BC63-1B47DA65E800}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TasteRestaurantApplication.Models", "TasteRestaurantApplication.Models\TasteRestaurantApplication.Models.csproj", "{55A718E5-066A-43A9-BC63-1B47DA65E800}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasteRestaurantApplication.Utility", "TasteRestaurantApplication.Utility\TasteRestaurantApplication.Utility.csproj", "{74B0AA92-34FA-4899-B65E-A2A2741DA227}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TasteRestaurantApplication.Utility", "TasteRestaurantApplication.Utility\TasteRestaurantApplication.Utility.csproj", "{74B0AA92-34FA-4899-B65E-A2A2741DA227}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

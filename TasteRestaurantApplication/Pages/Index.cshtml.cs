@@ -17,9 +17,9 @@ namespace TasteRestaurantApplication.Pages
             _logger = logger;
         }
 
-        public void OnGet()
+        public IActionResult OnGet()
         {
-
+            return RedirectToPage("/Admin/Category/Index");
         }
     }
 }
